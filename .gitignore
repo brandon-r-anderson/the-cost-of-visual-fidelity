@@ -1,0 +1,8 @@
+# Excel temp files
+~$*
+
+# Unnecessary OS files
+Thumbs.db
+
+# ZIP files
+*.zip
