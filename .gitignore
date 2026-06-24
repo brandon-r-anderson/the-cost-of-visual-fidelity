@@ -6,3 +6,7 @@ Thumbs.db
 
 # ZIP files
 *.zip
+
+# Python IDE folders
+.idea/
+.venv/
